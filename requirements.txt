@@ -1,0 +1,6 @@
+torch
+transformers>=4.38.0
+sentencepiece
+pdfplumber
+numpy
+pandas
